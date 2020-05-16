@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1589647053 source:c:\users\george\desktop\pizza\main.cpp
+	<Pizza_Vegetariana.h>
+	<Meniu.h>
+
+1589647181 c:\users\george\desktop\pizza\include\pizza_vegetariana.h
+	<Pizza.h>
+
+1589646876 c:\users\george\desktop\pizza\include\pizza.h
+	<iostream>
+	<Base.h>
+
+1589647252 c:\users\george\desktop\pizza\include\meniu.h
+	<iostream>
+	<vector>
+	<unordered_map>
+	<memory>
+	<fstream>
+	<Exceptie.h>
+
+1589123197 source:c:\users\george\desktop\pizza\src\meniu.cpp
+	"Meniu.h"
+
+1589646996 source:c:\users\george\desktop\pizza\src\pizza.cpp
+	"Pizza.h"
+
+1589123197 source:c:\users\george\desktop\pizza\src\pizza_vegetariana.cpp
+	"Pizza_Vegetariana.h"
+
+1589474724 c:\users\george\desktop\pizza\include\base.h
+
+1589304482 source:c:\users\george\desktop\pizza\src\base.cpp
+	"Base.h"
+
+1589645897 c:\users\george\desktop\pizza\include\exceptie.h
+	<exception>
+
+1589645527 source:c:\users\george\desktop\pizza\src\exceptie.cpp
+	"Exceptie.h"
+
